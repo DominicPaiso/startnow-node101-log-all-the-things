@@ -1,0 +1,1 @@
+This creates a log for each visit in the server.
